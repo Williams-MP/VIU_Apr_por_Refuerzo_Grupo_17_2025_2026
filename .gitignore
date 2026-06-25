@@ -1,0 +1,8 @@
+# Ignorar archivos de pesos de entrenamiento (Keras / TensorFlow)
+*.h5f
+*.json
+
+# Opcional: Ignorar carpetas ocultas de configuración local si aparecieran
+.virtualenv/
+.venv/
+.DS_Store
