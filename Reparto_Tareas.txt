@@ -1,18 +1,18 @@
 Tareas grupo:
 
-- Creación de GitHub Colaborativo
-- Preparar en el entorno para que funcione con Colab
-- Crear rutas para guardar los pesos en google drive
-- Arreglar el tema de como crear los checkpoints, y como reanudar de estos
+- Creación de GitHub Colaborativo-> OK
+- Preparar en el entorno para que funcione con Colab-> OK
+- Crear rutas para guardar los pesos en google drive-> OK
+- Arreglar el tema de como crear los checkpoints, y como reanudar de estos-> OK
 - Algoritmos:
-P1 - Epsilon fija
-P2 - Linear Annealing
-P3 - Boltzman Q Policy
-P4 - Double DQN con Eps fija
-P5 - Dueling DQN con Eps fija
-P6 - Double + Dualing DQN
-P7 - Double DQN Annealed
-P8 - Dueling DQN Annealed
+P1 - Epsilon fija (Maria)
+P2 - Linear Annealing (Marina)
+P3 - Boltzman Q Policy (Maria)
+P4 - Double DQN con Eps fija (Angel)
+P5 - Dueling DQN con Eps fija (Williams)
+P6 - Double + Dualing DQN (Marina)
+P7 - Double DQN Annealed (Angel)
+P8 - Dueling DQN Annealed (Williams)
 - Creación gráficas
 - Creación Videos
 - Análisis y resultados
