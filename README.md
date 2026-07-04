@@ -43,4 +43,4 @@ La propuesta **P5 (Dueling DQN)** obtuvo cumplió el requisitio de superar el pr
 
 ## Autores
 
-Grupo 17 — *(añade aquí los nombres de los integrantes)*
+Grupo 17 — Angel, Maria, Marina y Williams
