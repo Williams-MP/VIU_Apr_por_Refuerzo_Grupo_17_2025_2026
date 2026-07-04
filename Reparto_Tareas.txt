@@ -13,7 +13,7 @@ P5 - Dueling DQN con Eps fija (Williams)
 P6 - Double + Dualing DQN (Marina)
 P7 - Double DQN Annealed (Angel)
 P8 - Dueling DQN Annealed (Williams)
-- Creación gráficas
-- Creación Videos
-- Análisis y resultados
-- Conclusiones
+- Creación gráficas (todos)
+- Creación Videos (todos)
+- Análisis y resultados (todos)
+- Conclusiones (todos)
